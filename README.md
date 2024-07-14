@@ -1,3 +1,3 @@
-### Portfolio Page
+# Portfolio Page
 
-[harlan](https://harlan-phillips.github.io/)
+### https://harlan-phillips.github.io/
